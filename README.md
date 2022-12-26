@@ -1,1 +1,0 @@
-# gotphoto_test

@@ -1,0 +1,4 @@
+{
+    "people_stg" : "/data/people.csv" ,
+    "places_stg" : "/data/places.csv"
+}
